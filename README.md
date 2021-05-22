@@ -2,4 +2,4 @@
 
 ### Clonando a login page do instagram
 
-![alt text](https://github.com/[alexandersantosdev]/[dafio-dio]/blob/[main]/img/final.png?raw=true)
+![alt text](https://github.com/alexandersantosdev/desafio-dio/blob/main/final.png)
